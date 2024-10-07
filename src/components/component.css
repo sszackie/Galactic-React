@@ -1,0 +1,10 @@
+.component-container {
+  flex: 0 0 auto;
+  width: 100%;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+}
+.component-text2 {
+  display: inline-block;
+}

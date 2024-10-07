@@ -1,0 +1,110 @@
+.games-container {
+  width: 100%;
+  display: flex;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.games-text10 {
+  display: inline-block;
+}
+.games-text11 {
+  display: inline-block;
+  text-decoration: none;
+}
+.games-text12 {
+  display: inline-block;
+}
+.games-text13 {
+  display: inline-block;
+  font-style: normal;
+  font-weight: 600;
+}
+.games-text14 {
+  display: inline-block;
+  font-style: normal;
+  font-weight: 600;
+}
+.games-text15 {
+  display: inline-block;
+  font-style: normal;
+  font-weight: 600;
+}
+.games-text16 {
+  display: inline-block;
+  font-style: normal;
+  font-weight: 600;
+}
+.games-text17 {
+  display: inline-block;
+  text-decoration: none;
+}
+.games-text18 {
+  display: inline-block;
+  text-decoration: none;
+}
+.games-text21 {
+  display: inline-block;
+}
+.games-text22 {
+  display: inline-block;
+}
+.games-text23 {
+  display: inline-block;
+  text-decoration: none;
+}
+.games-text24 {
+  display: inline-block;
+}
+.games-text25 {
+  display: inline-block;
+}
+.games-text26 {
+  display: inline-block;
+}
+.games-text27 {
+  display: inline-block;
+}
+.games-text28 {
+  display: inline-block;
+  text-align: center;
+}
+.games-link1 {
+  align-self: center;
+  text-decoration: none;
+}
+.games-link2 {
+  align-self: center;
+  text-decoration: none;
+}
+.games-link3 {
+  align-self: center;
+  text-decoration: none;
+}
+.games-link4 {
+  align-self: center;
+  text-decoration: none;
+}
+.games-link5 {
+  align-self: center;
+  text-decoration: none;
+}
+.games-link6 {
+  align-self: center;
+  text-decoration: none;
+}
+.games-text31 {
+  display: inline-block;
+}
+.games-text32 {
+  display: inline-block;
+}
+.games-text33 {
+  display: inline-block;
+}
+.games-text34 {
+  display: inline-block;
+}
+.games-text35 {
+  display: inline-block;
+}

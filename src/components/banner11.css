@@ -1,0 +1,29 @@
+.banner11-container1 {
+  gap: var(--dl-space-space-unit);
+  display: flex;
+  position: relative;
+  align-items: center;
+}
+.banner11-max-width {
+  gap: var(--dl-space-space-oneandhalfunits);
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.banner11-container2 {
+  gap: var(--dl-space-space-halfunit);
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.banner11-icon1 {
+  width: 365px;
+  height: 229px;
+}
+.banner11-text2 {
+  display: inline-block;
+  text-align: center;
+}
+.banner11-text6 {
+  display: inline-block;
+}

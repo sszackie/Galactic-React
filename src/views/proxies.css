@@ -1,0 +1,109 @@
+.proxies-container1 {
+  width: 100%;
+  display: flex;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.proxies-text10 {
+  display: inline-block;
+}
+.proxies-text11 {
+  display: inline-block;
+  text-decoration: none;
+}
+.proxies-text12 {
+  display: inline-block;
+}
+.proxies-text13 {
+  display: inline-block;
+  font-style: normal;
+  font-weight: 600;
+}
+.proxies-text14 {
+  display: inline-block;
+  font-style: normal;
+  font-weight: 600;
+}
+.proxies-text15 {
+  display: inline-block;
+  font-style: normal;
+  font-weight: 600;
+}
+.proxies-text16 {
+  display: inline-block;
+  font-style: normal;
+  font-weight: 600;
+}
+.proxies-text17 {
+  display: inline-block;
+  text-decoration: none;
+}
+.proxies-text18 {
+  display: inline-block;
+  text-decoration: none;
+}
+.proxies-text21 {
+  display: inline-block;
+}
+.proxies-text22 {
+  display: inline-block;
+}
+.proxies-text23 {
+  display: inline-block;
+  text-decoration: none;
+}
+.proxies-text24 {
+  display: inline-block;
+}
+.proxies-text25 {
+  display: inline-block;
+}
+.proxies-text26 {
+  display: inline-block;
+}
+.proxies-text27 {
+  display: inline-block;
+}
+.proxies-text28 {
+  display: inline-block;
+}
+.proxies-text31 {
+  display: inline-block;
+}
+.proxies-link1 {
+  text-decoration: none;
+}
+.proxies-link2 {
+  text-decoration: none;
+}
+.proxies-link3 {
+  text-decoration: none;
+}
+.proxies-link4 {
+  text-decoration: none;
+}
+.proxies-container2 {
+  flex: 0 0 auto;
+  width: 100%;
+  border: 2px dashed rgba(120, 120, 120, 0.4);
+  height: 100px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+}
+.proxies-text36 {
+  display: inline-block;
+}
+.proxies-text37 {
+  display: inline-block;
+}
+.proxies-text38 {
+  display: inline-block;
+}
+.proxies-text39 {
+  display: inline-block;
+}
+.proxies-text40 {
+  display: inline-block;
+}
