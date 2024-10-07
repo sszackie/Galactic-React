@@ -138,7 +138,7 @@ const Proxies = (props) => {
         }
       ></Banner11>
       <a
-        href="https://unblocked-interstellar-bay.vercel.app/"
+        href="https://unblocked-abyss-web.vercel.app/"
         target="_blank"
         rel="noreferrer noopener"
         className="proxies-link1 button"
