@@ -54,7 +54,7 @@ const Footer4 = (props) => {
           </div>
         </div>
         <a
-          href="https://github.com"
+          href="https://github.com/sszackie/Galactic-React"
           target="_blank"
           rel="noreferrer noopener"
           className="footer4-link2"
