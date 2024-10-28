@@ -78,9 +78,16 @@
 .chat-text47 {
   font-size: 24px;
 }
-.chat-link {
+.chat-link1 {
   font-size: 24px;
   text-decoration: underline;
+}
+.chat-link2 {
+  font-size: 24px;
+  text-decoration: underline;
+}
+.chat-text49 {
+  display: inline-block;
 }
 .chat-text50 {
   display: inline-block;
@@ -92,8 +99,5 @@
   display: inline-block;
 }
 .chat-text53 {
-  display: inline-block;
-}
-.chat-text54 {
   display: inline-block;
 }
