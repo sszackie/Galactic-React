@@ -159,7 +159,7 @@ const Proxies = (props) => {
         rel="noreferrer noopener"
         className="proxies-link3 button"
       >
-        <span>Doge v4</span>
+        <span>Jared v4</span>
       </a>
       <a
         href="https://unblocked-interstellar-bay.vercel.app/"
